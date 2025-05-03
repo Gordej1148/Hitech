@@ -1,0 +1,97 @@
+header img {
+    weight:1240px;
+    height:412px;
+    margin:20px
+}
+
+
+
+nav {
+    margin: 30px 10px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: black; 
+    background: linear-gradient(90deg, #4dccdf, #608be6);
+    border-radius:10px;
+    padding:20px;
+    font-size:20px;
+}
+h2 {
+    font-family:sans-serif;
+}
+
+h1 {
+    font-family:sans-serif;
+    text-align:centre;
+    
+}
+
+p {
+    font-family:sans-serif;
+    text-align:centre;
+    
+}
+
+a {
+    font-family:sans-serif;
+}
+
+a ,body {
+  
+    text-decoration: none;
+}
+table {
+    border:3px solid lightgrey;
+    border-collapse:collapse;
+    font-family:sans-serif;
+    text-align:centre;
+}
+
+tr {
+    border:2px solid lightgrey;
+    font-family:sans-serif;
+   
+}
+
+td {
+    font-family:sans-serif;
+    border:2px solid lightgrey;
+    width: 110px;
+    
+}
+
+body {
+    
+}
+
+footer {
+  background-color:#1a1e27;
+  color:#8497b4;
+}
+footer img {
+    width: 138px;
+    height: 90px;
+    background: url(/_nuxt/img/spider.cf96d95.png);
+    margin-top: -60px;
+    margin-left: 50px;
+}
+
+footer a {
+
+}
+
+body a {
+    text-align: center;
+}
+
+div {
+display: flex;
+}
+
+footer p {
+
+}
